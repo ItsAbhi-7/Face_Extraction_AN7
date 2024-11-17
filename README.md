@@ -14,3 +14,28 @@ Ensure you have the following Python libraries installed:
 * **Streamlit**: To create the web interface.
 * **Pillow**: For image processing.
 * **NumPy**: For handling image data arrays.
+
+You can install these dependencies using pip:
+
+pip install retinaface streamlit pillow numpy
+
+# How to Use
+1. Clone the Repository:
+
+git clone https://github.com/your_username/face-extraction.git
+cd face-extraction
+
+2. Run the Application:
+
+streamlit run app.py
+
+3. Upload an Image:
+
+* Use the "Upload a photo" button to upload an image (JPG, PNG, or JPEG).
+* The application will detect and display any faces found in the uploaded image.
+  
+4. View Results:
+
+* If faces are detected, they will be displayed as individual images.
+* If no faces are detected, a message will inform you.
+
