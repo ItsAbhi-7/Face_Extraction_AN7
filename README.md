@@ -22,12 +22,12 @@ pip install retinaface streamlit pillow numpy
 # How to Use
 1. Clone the Repository:
 
-git clone https://github.com/your_username/face-extraction.git
-cd face-extraction
+* git clone https://github.com/your_username/face-extraction.git
+* cd face-extraction
 
 2. Run the Application:
 
-streamlit run app.py
+* streamlit run app.py
 
 3. Upload an Image:
 
