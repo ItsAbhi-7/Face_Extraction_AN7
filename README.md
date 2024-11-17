@@ -6,3 +6,11 @@ This repository contains a Python-based application for extracting faces from im
 * Streamlit-based Web App: User-friendly interface to upload and view results directly in the browser.
 - Robust Processing: Supports common image formats such as JPG, PNG, and JPEG.
 * Dynamic Feedback: Displays the uploaded image and extracted faces in real-time.
+
+# Requirements
+Ensure you have the following Python libraries installed:
+
+* **RetinaFace**: For face detection and extraction.
+* **Streamlit**: To create the web interface.
+* **Pillow**: For image processing.
+* **NumPy**: For handling image data arrays.
